@@ -11,4 +11,5 @@ Very simple and fun game.
 - The first player to reach 100 points on GLOBAL score wins the game
 
 ## NOTE:
-If you want to change the winning number, just type it into the final score field. 
+1) If you want to change the winning number, just type it into the final score field. 
+2) This is a desktop application.
